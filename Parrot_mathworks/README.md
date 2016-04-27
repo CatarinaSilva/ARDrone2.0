@@ -15,6 +15,8 @@ Contents:
 + ~~AR_Drone_Models~~
 + ~~AR_Drone_Simulations~~
 
+Inside **AR_Drone_Target/blocks/videolib** there is a script, **install_videolib.m**, that allows the instalation
+of video retrieving and sending blocks, that will be available in Simulink's library browser under **AR Drone Video**
 
 
 Simulink AR Drone Target
