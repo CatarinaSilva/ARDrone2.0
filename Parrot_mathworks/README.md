@@ -1,3 +1,22 @@
+AR Drone 2.0 - Simulink AR Drone Target
+=======================================
+
+This is a part of Daren Lee's repository for the AR Drone 2.0, available on
+https://github.com/darenlee/SimulinkARDroneTarget, under a Revised BSD License.
+
+It is the starting point for this project on flight control and localization with Parrot's AR Drone 2.0, allowing
+code deployment from Matlab to the Drone with the necessary blocks that retrieve navigation data and send actuation
+inputs to the drone.
+
+After installing AR_Drone_Target, the blocks are available in Simulink's library browser under **AR Drone 2 Target**
+
+Contents:
++ AR_Drone_Target
++ ~~AR_Drone_Models~~
++ ~~AR_Drone_Simulations~~
+
+
+
 Simulink AR Drone Target
 ========================
 
