@@ -19,7 +19,8 @@ Inside **AR_Drone_Target/blocks/videolib** there is a script, **install_videolib
 of video retrieving and sending blocks, that will be available in Simulink's library browser under **AR Drone Video**
 
 
-Simulink AR Drone Target
+(the following was copied from the mentioned repository)
+[Simulink AR Drone Target](https://github.com/darenlee/SimulinkARDroneTarget)
 ========================
 
 Deploy MATLAB Simulink model automatically to Parrot AR Drone with Embedded Coder C code generation. These set of files contain a Simulink model for navigation and control which will allow the AR Drone 2.0 to hover. WiFi communication between a Simulink model running on a PC can receive telemetry and send commands to the drone for take-off and hover mode.
