@@ -1,0 +1,3 @@
+open ftp://anonymous@:5551/ -passive=on 
+put "" ./ 
+exit 
