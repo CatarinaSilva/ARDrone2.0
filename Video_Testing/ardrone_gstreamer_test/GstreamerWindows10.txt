@@ -1,0 +1,5 @@
+# Line for Windows 10 and Gstreamer
+# The caps line should correspond to the one printed in the quadrotor terminal 
+# The port should be the one used in udpsink
+
+gst-launch-1.0 -e udpsrc port=5920 caps = "application/x-rtp, media=(string)video, clock-rate=(int)90000, encoding-name=(string)MP4V-ES, profile-level-id=(string)5, config=(string)000001b005000001b50900000100000001200086e00029c42003a00065304ba98514043c1443, payload=(int)96, ssrc=(uint)451592766, clock-base=(uint)373597196, seqnum-base=(uint)41302" ! rtpmp4vdepay ! mpeg4videoparse ! avdec_mpeg4 ! autovideosink
