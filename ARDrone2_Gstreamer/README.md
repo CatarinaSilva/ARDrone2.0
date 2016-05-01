@@ -17,7 +17,7 @@ https://github.com/tudelft/ardrone2_gstreamer, under a GNU general public licens
 
 
 2.	Upload the archive **arm_light.tgz**
-     *IMPORTANT:	If you have a bunch of files with names of form **pic_000124477966_w640_h360.y** you may not have space for installing. Delete them (if you want to keep them download them to your computer but keep in mind they are useless)
+	* IMPORTANT:If you have a bunch of files with names of form **pic_000124477966_w640_h360.y** you may not have space for installing. Delete them (if you want to keep them download them to your computer but keep in mind they are useless)
 ![FTP connection to drone](https://github.com/CatarinaSilva/ARDrone2.0/blob/master/ARDrone2_Gstreamer/images/uploading.png)
 
 3.	Close the session
@@ -58,8 +58,8 @@ You should have the following output, with opt folder:
 ![Bin list](https://github.com/CatarinaSilva/ARDrone2.0/blob/master/ARDrone2_Gstreamer/images/listBin.png)
 
 9. Try to run **basescript.sh**:
-	*`./basescript.sh`
-![Bin list](https://github.com/CatarinaSilva/ARDrone2.0/blob/master/ARDrone2_Gstreamer/images/basescript
+	* `./basescript.sh`
+![Bin list](https://github.com/CatarinaSilva/ARDrone2.0/blob/master/ARDrone2_Gstreamer/images/basescript.png)
 
 
 
