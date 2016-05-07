@@ -9,7 +9,7 @@ Testing from inside Matlab:
 * Run **Startup_Script.m**
 * Build, Connect and Run the dummy model inside this folder, **runVideo.slx**
 * Check if you are receiving the video in your computer:
-	* [With Gstreamer] Open a command line and run the gstreamer line described in **GstreamerWindows10.txt* 
+	* [With Gstreamer] Open a command line and run the gstreamer line described in **GstreamerWindows10.txt**
 	* [With openCV inside Matlab] Run the matlab script **receiveVideo.m** (to be uploaded)
 		
 You should be able to see the video in a window created by gstreamer in your host machine (this should happen already after build, but if you also connect and run you should see the LEDs turn green and this would confirm that the code was deployed correctly)
