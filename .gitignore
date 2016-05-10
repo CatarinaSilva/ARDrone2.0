@@ -1,0 +1,14 @@
+# Object file
+*.o
+
+# ELF executables
+*.elf
+
+# ELF executables
+*.elf
+
+# ert_rtw folders
+*_ert_rtw/
+
+# slprj
+*slprj/
