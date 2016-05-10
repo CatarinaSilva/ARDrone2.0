@@ -1,4 +1,0 @@
-open ftp://anonymous@192.168.1.1:5551/ -passive=on 
-put "C:\Users\Catarina\Documents\GitHub\ARDrone2.0\Video_Testing\ardrone_gstreamer_test\runVideo.elf" ./ 
-put "C:\Users\Catarina\Documents\GitHub\ARDrone2.0\Video_Testing\ardrone_gstreamer_test\video_script.sh" ./ 
-exit 
